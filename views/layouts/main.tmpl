@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    {{> head}}
-  </head>
-  <body class="container">
-    <header>{{> header}}</header>
-    {{{body}}}
-    <footer>{{> footer}}</footer>
-  </body>
+<head>{{> head}}</head>
+<body>
+  <header id="header" class="fixed-top ">{{> header}}</header>
+  <main id="main">{{{body}}}</main>
+  <footer id="footer" class="text-center">{{> footer}}</footer>
+  {{> scripts}}
+</body>
 </html>
