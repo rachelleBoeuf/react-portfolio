@@ -2,7 +2,7 @@
 
 # Description
 
-Welcome to the MOST recent upate of my personal portfolio page! Please review my previous work and enjoy watching me become better through my coding journey!
+Welcome to the MOST recent upate of my personal portfolio page! 
 
 
 Visit my Portfolio Here! https://calm-anchorage-35801.herokuapp.com/
