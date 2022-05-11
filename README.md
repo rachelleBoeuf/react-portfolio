@@ -6,6 +6,7 @@ Welcome to the MOST recent upate of my personal portfolio page! Please review my
 
 
 Visit my Portfolio Here! <!---Insert Link>
+
 ## Visuals
 
 
